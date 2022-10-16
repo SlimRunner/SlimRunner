@@ -1,3 +1,3 @@
-- 👋 Hi, I’m David Flores who goes by the pseudonym  of @SlimRunner online.
-- 👀 I’m interested in math, music, videogames, and programming. I always looking for ways in which I can integrate programming to make any of my interests easier or even more interesting.
+- 👋 Hi, I’m David Flores who goes by the pseudonym of @SlimRunner online.
+- 👀 I’m interested in math, music, videogames, and programming. I'm always looking for ways in which I can integrate programming to make any of my interests easier or even more interesting.
 - 🌱 I’m currently learning dynamic programming because I know it will help strenghten my problem solving skills, and also because there's just something magical about seeing the solution to a problem that done badly could take millions of years.
